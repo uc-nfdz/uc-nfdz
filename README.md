@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Noé {he/him/his}
 - 💼 I’m currently working on [Usercentrics](https://usercentrics.com/)
 - 💞️ I’m looking to collaborate on user privacy topics
-- 📫 How to reach me `noe.fernandez@usercentrics.com`
+- 📫 How to reach me [noe.fernandez@usercentrics.com](mailto:noe.fernandez@usercentrics.com)
 - 🏄 My personal account is [nfdz](https://github.com/nfdz)
 
 <!---
